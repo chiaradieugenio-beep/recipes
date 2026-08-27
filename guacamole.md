@@ -4,6 +4,7 @@
 * lime
 * salt 
 * corriander
+* tomato
 ## Instructions
 
 Peel teh avocado 
